@@ -27,4 +27,4 @@ An interactive, end-to-end Power BI analytics project analyzing Amazon product p
 ---
 
 ## 👨‍💻 Author
-**Racan Mohamed**
+**Mostafa Shaban**
