@@ -23,6 +23,7 @@ An interactive, end-to-end Power BI analytics project analyzing Amazon product p
 ## 📂 Repository Contents
 - `Amazon Dashboard V5.pbix` : The complete Power BI report file.
 - `README.md` : Project documentation and summary.
+- - 📄 **[View / Download Dashboard PDF](Amazon%20DashBoard%20V5.pdf)**
 
 ---
 
